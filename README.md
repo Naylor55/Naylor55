@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naylor55
 - 👀 I’m interested in TECH
-- 🌱 I’m currently learning WPF
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me cnaylor@163.com
 
