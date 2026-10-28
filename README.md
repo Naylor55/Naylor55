@@ -2,6 +2,7 @@
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on software development
+- 💼 Available for freelance projects, technical consulting, and architecture advisory.
 - 📫 How to reach me cnaylor@163.com
 
 <!---
